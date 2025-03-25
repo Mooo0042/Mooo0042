@@ -3,7 +3,6 @@
 - 📫 How to reach me: us3r0@mod-sauce.ddns-ip.net
 - 😄 Pronouns: He / Him
 
-<!---
-Mooo0042/Mooo0042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooo0042&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mooo0042&layout=compact&theme=radical)
+
