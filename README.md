@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Us3r0
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: us3r0@mod-sauce.ddns-ip.net
+- 📫 How to reach me: us3r0@mod-sauce.ddns-ip.net us3r0#gabserver.me
 - 😄 Pronouns: He / Him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooo0042&show_icons=true&theme=chartreuse-dark)
