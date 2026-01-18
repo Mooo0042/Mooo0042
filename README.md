@@ -2,8 +2,6 @@
 
 ### I develop usefull tools and Minecraft Mods
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mooo0042" alt="Mooo0042" /></a> </p>
-
 - 🔭 I'm currently working on **Iam Music Player Renewed**
 
 - 👨‍💻 All of my projects are available at **[https://mooo0042.github.io/](https://mooo0042.github.io/)**
@@ -18,10 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mooo0042&show_icons=true&locale=en&layout=compact" alt="Mooo0042" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mooo0042&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mooo0042&show_icons=true&locale=en" alt="Mooo0042" /></p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Mooo0042&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mooo0042&" alt="Mooo0042" /></p>
-
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mooo0042)
