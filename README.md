@@ -16,14 +16,12 @@
 
 ## 🧠 About me
 
-I build software because curiosity is louder than caution.  
-Mostly Minecraft mods, tooling, and projects that start small and escalate.
+I build mostly Minecraft mods, tooling, and projects that start small and escalate.
 
 I prefer understanding systems over fighting them.  
 Sometimes that still involves fighting them.
 
 Primary home is **Codeberg**.  
-GitHub exists for mirrors and visibility.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -38,9 +36,6 @@ GitHub exists for mirrors and visibility.
 Currently maintaining:
 - **Iam Music Player Renewed**
 
-Breaking:
-- Everything else, temporarily
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## 🛠️ Tech I touch regularly
@@ -53,10 +48,12 @@ Breaking:
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 </p>
 
-Tooling matters.  
-Understanding matters more.
 
 ## 🌍 Links
 
 - Codeberg: https://codeberg.org/Fr4gm3nt3d_sh  
 - GitHub: https://github.com/Mooo0042
+
+<p align="center">
+  <img src="assets/no-web3.gif" alt="Keep the web free">
+</p>
