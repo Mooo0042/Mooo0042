@@ -56,4 +56,9 @@ Currently maintaining:
 
 <p align="center">
   <img src="assets/no-web3.gif" alt="Keep the web free">
+  <img src="assets/powered.gif" alt="Powered by Imagination">
+  <img src="assets/firefox.png" alt="Firefox Now">
+  <img src="assets/progress.png" alt="Pride Progress Flag">
+  <img src="assets/skirt.gif" alt="">
+  <img src="assets/xenia.gif" alt="Linux Now">
 </p>
